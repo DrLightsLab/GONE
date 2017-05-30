@@ -1,0 +1,29 @@
+Genji:
+    Character:
+    Moves:
+        Shuriken:
+        Fan of Blades:
+        Swift Strike:
+        Deflect:
+        Dragonblade:
+            Notes:
+                1: Aiming Dragonblade upwards increases the size of the hitbox.
+                    Theory 1:  The hitbox is increased so much that it will hit enemies that aren't visible during a double jump.
+                        Test:  Determine max range for hitbox when aiming up and then test if it stills hits during a double jump.
+                            This will be accomplished with the following steps:
+                                (1) Slash upward (miss)
+                                (2) Move forward
+                                (3) Slash upward (hit)
+                                (4) Slash forward (miss)
+                                (5) Double jump and slash downward (miss)
+                                (6) Double Jump and slash upward (hit?)
+                            This will also determine whether or not the hitbox is extended while aiming downward.
+                        Results:  Confirmed.  Step 6 was a hit while step 4 & 5 were misses.  The hitbox is only extended while aiming upwards,
+                            and it will hit enemies that aren't even visible on the screen.
+                        Notes:  We now know that the hitbox is large enough to hit enemies that are standing during a double jump.  Does this mean
+                            that the hitbox extends to the floor?  Another way to test the size of the extended hit box is the following:
+                                (1) Perform test on smaller character (initial tests performed on training bot)
+                                (2) Perform test on crouched character
+                                (3) Perform test on a target that is slept by Ana
+                        Reference: https://www.youtube.com/watch?v=vETKTXP9GJU
+            Observations:

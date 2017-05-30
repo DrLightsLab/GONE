@@ -1,0 +1,87 @@
+Soldier 76:
+    Character:
+        Notes:
+            (Note):
+    Moves:
+        Helix Rockets:
+            Notes:
+                (Note):
+                    Theory:
+                    Test:
+                    Result:
+                    Reference:
+                    Notes:
+            Theories:
+                (Theory):
+                    Test:
+                    Result:
+                    Reference:
+                    Notes:
+            Observations:
+                (Observation):
+        Sprint:
+            Notes:
+                Note 1: Sprint can be activated/deactivated any time except during crouching.
+                    Theory: Jump sprinting can be used to escape a Mei ultimate.  This is due to the horizontal movement, which is unaffected
+                        by the Mei ultimate, that Soldier gains when he sprints during a jump.
+                    Test:  Have Mei use her ultimate and try to escape using jump sprinting.  The following questions will be used to
+                        determine whether jump sprinting actually helps escape the ultimate and to further explain how Mei's ultimate works:
+                            (1) Is regular sprinting enough to escape?
+                            (2) Are grounded enemies only affected by the ultimate?
+                                (2a) Are you unaffected during your jump?
+                                    Expanded: Does Mei's ultimate build to freezing an enemy by a total amount of time you are affected by it?
+                                        Note: The acronym TUF (Time Until Frozen) will be used to represent how long a character must be affected by
+                                            Mei's ult until she is frozen. This should further expand to her Endothermic Blaster, but that is out of
+                                            scope for this theory.
+                                            E.G.: Jumping leaves you unaffected, but the window of time unaffected is so small that repeated jumping
+                                                is enough to slow TUF but not enough to stop it.  Simply put, the character is grounded (affected) more than
+                                                they are jumping (unaffected) and max TUF is reached.
+                                (2b) Are grounded enemies affected by the slow more than airborne enemies?
+                                    Expanded: Enemies are still affected by the ultimate even when airborne (jumping), however, they are not slowed as much
+                                        as enemies who are grounded in the ultimate.
+                                        E.G.: TUF is unaffected by whether the enemy is grounded or airborne, but the slowing effect of Mei's ultimate is
+                                            affected by whether the enemy is grounded or airborne.
+
+                    Result:
+                    Reference:
+                    Notes:
+            Theories:
+                (Theory):
+                    Test:
+                    Result:
+                    Reference:
+                    Notes:
+            Observations:
+                (Observation):
+        Biotic Field:
+            Notes:
+                (Note):
+                    Theory:
+                    Test:
+                    Result:
+                    Reference:
+                    Notes:
+            Theories:
+                (Theory):
+                    Test:
+                    Result:
+                    Reference:
+                    Notes:
+            Observations:
+                (Observation):
+        Tactical Visor:
+            Notes:
+                (Note):
+                    Theory:
+                    Test:
+                    Result:
+                    Reference:
+                    Notes:
+            Theories:
+                (Theory):
+                    Test:
+                    Result:
+                    Reference:
+                    Notes:
+            Observations:
+                (Observation):

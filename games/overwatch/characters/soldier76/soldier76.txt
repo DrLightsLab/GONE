@@ -43,7 +43,7 @@ Soldier 76:
                                             affected by whether the enemy is grounded or airborne.
 
                     Result:
-                    Reference:
+                    Reference: https://youtu.be/vTlVOPS0U2s
                     Notes:
             Theories:
                 (Theory):
